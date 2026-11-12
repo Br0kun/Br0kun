@@ -1,5 +1,5 @@
 # Br0kun
-**Offensive Security | Programming | Reverse Engineering**
+**Security Research • Offensive Security •software engineering**
 
 Interested in offensive security, systems programming, and software internals. A Linux enthusiast with an interest in exploring operating systems, understanding how software works, and experimenting with different technologies.
 
